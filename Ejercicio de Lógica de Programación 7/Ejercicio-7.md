@@ -10,7 +10,6 @@
   - Considerando el inicio para el fin de semana **Viernes a las 15:00 hrs**
 - Output
   - Mostrar el resultado por un mensaje en consola.
-
 --- 
 
 Input: Lunes, 14:30 hrs
@@ -22,11 +21,11 @@ lunes
 
 Output:
 ```Java
-"Faltan 5730 minutos para el fin de semana"
+"Faltan 5790 minutos para el fin de semana"
 ```
 
 ## Observaciones adicionales:
 
 - Agregar a ésta carpeta el archivo `.java` que contenga la clase principal, así como su método `void main`
-- El programa debe verificar que los datos de entreada sean válidos para continuar su función.
+- El programa debe verificar que los datos de entrada sean válidos para continuar su función.
 - En caso de que no lo sean, detener el programa y volver a solicitar los datos.
