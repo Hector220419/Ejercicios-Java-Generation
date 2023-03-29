@@ -5,7 +5,7 @@
 - Crear un programa en `Java` que realice lo siguiente:
 - Crear un diccionario Español-Inglés, que contenga al menos 20 palabras su respectiva traducción
 - Utilizar un *objeto* `HashMap` para almacenar los pares de palabras
-- Escoger al azar 5 palabars en español del mini diccionario
+- Escoger al azar 5 palabras en español del mini diccionario
 
 - Input
   - Pedir al usuario que teclee la traducción al inglés de cada una de las palabras
