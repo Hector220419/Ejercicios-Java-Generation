@@ -5,9 +5,7 @@
 - Crear un programa en `JavaScript` que realice lo siguiente:
 
 - Input
-  - Solicitar al usuario por input o prompt la temperatura en grados Celcius.
-  
-
+  - Solicitar al usuario por input o prompt la temperatura en grados Celsius.
 
 - Output
   - Imprimir por consola o DOM la temperatura ingresada convertida de grados Celsius a grados Farenheit.
