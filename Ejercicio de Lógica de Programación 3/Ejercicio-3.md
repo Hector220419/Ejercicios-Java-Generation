@@ -6,8 +6,6 @@
 
 - Input
   - Solicitar por prompt o input un número.
-  
-
 
 - Output
   - Imprimir por consola o DOM el factorial del número recibido.
